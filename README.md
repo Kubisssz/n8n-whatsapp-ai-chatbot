@@ -4,8 +4,6 @@ This repository contains a no-code/low-code WhatsApp chatbot system built using 
 
 ---
 
----
-
 ## 🖼️ Workflow Overview
 
 Here is a screenshot of the complete n8n workflow used for this WhatsApp chatbot automation:
